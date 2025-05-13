@@ -14,12 +14,11 @@ namespace SolucionLeerAnexos
     {
         [FunctionName("SolucionLeerAnexos")]
         public static void Run(
-            //[TimerTrigger("0 */30 * * * *")] TimerInfo myTimer,
-            [TimerTrigger("0 * * * * *")] TimerInfo myTimer,
+            [TimerTrigger("0 */30 * * * *")] TimerInfo myTimer,
+            //[TimerTrigger("0 * * * * *")] TimerInfo myTimer,
             ILogger log)
         {
-            var basePath = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, @"..\..\.."));
-            var path = Path.Combine(basePath, "Recursos", "AnexoA.xml");
+            var path = @"C:\GoSocket\Recursos\AnexoA.xml";
 
             if (!File.Exists(path))
             {
