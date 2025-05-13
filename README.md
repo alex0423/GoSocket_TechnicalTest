@@ -17,21 +17,33 @@ Se desarrolló una función HTTP Trigger utilizando **Azure Functions v4** y **.
 ## 📁 Estructura del Proyecto
 
 GoSocket_TechnicalTest/
+
 │
+
 ├── GoSocket.Function/ # Azure Function principal
+
 │ └── Function1.cs # Endpoint HTTP Trigger
+
 │
+
 ├── Recursos/ # Folder de recursos usables
+
 │ └── AnexoA.xml # Anexo XML de Areas y Empleados
+
 │
+
 └── host.json / local.settings.json # Configuración de Azure Function
 
 
 ## 📋 Copiar Recurso
 
 Se debe copiar el recurso del proytecto en la ruta especificada
+
 │
-├── Recursos/ # Folder 
+
+├── Recursos/ # Folder
+
 │ └── AnexoA.xml # Anexo
+
 
 En la ruta C:\GoSocket\Recursos\AnexoA.xml
