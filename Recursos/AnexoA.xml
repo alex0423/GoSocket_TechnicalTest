@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gosocket>
+	<area>
+		<name>Producto</name>
+		<description>Area encargada del desarrollo y gestion de productos</description>
+		<employees>
+			<employee name="Carla Gomez" salary="1420.50" jobTitle="Especialista en Gestion de Catalogo" />
+			<employee name="Luis Ramirez" salary="1580.75" jobTitle="Analista de Desarrollo de Productos" />
+			<employee name="Andres Soto" salary="1350.00" jobTitle="Gestor de Producto" />
+			<employee name="Sofia Morales" salary="1450.00" jobTitle="Analista de Catalogo" />
+		</employees>
+	</area>
+	<area>
+		<name>Logistica</name>
+		<description>Departamento encargado de la gestion y distribucion de recursos</description>
+		<employees>
+			<employee name="Luis Garcia" salary="1600.00" jobTitle="Jefe de Logistica" />
+			<employee name="Maria Ruiz" salary="1450.00" jobTitle="Coordinadora de Almacenes" />
+		</employees>
+	</area>
+	<area>
+		<name>Tecnologia</name>
+		<description>Seccion dedicada a la innovacion y soporte tecnologico</description>
+		<employees>
+			<employee name="Fernando Rios" salary="1850.00" jobTitle="Programador Backend" />
+			<employee name="Maria Villanueva" salary="1720.00" jobTitle="Ingeniera de Sistemas" />
+			<employee name="Jorge Salas" salary="2100.00" jobTitle="Arquitecto de Infraestructuras Tecnologicas" />
+			<employee name="Carlos Pino" salary="1920.00" jobTitle="Desarrollador Full Stack" />
+			<employee name="Laura Paredes" salary="1670.00" jobTitle="Ingeniera de Datos" />
+		</employees>
+	</area>
+	<area>
+		<name>Consultoria</name>
+		<description>Departamento dedicado a la asesoria y optimizacion de procesos</description>
+		<employees>
+			<employee name="Ana Lopez" salary="1600.00" jobTitle="Asesora de Negocios" />
+			<employee name="Ivan Marquez" salary="1750.00" jobTitle="Consultor Funcional Senior" />
+		</employees>
+	</area>
+  <area>
+    <name>Logistica</name>
+    <description>Departamento encargado de la gestion y distribucion de recursos</description>
+    <employees>
+      <employee name="Luis Garcia" salary="1600.00" jobTitle="Jefe de Logistica" />
+      <employee name="Maria Ruiz" salary="1450.00" jobTitle="Coordinadora de Almacenes" />
+    </employees>
+  </area>
+	<area>
+		<name>Soporte</name>
+		<description>Area responsable del soporte tecnico y resolucion de incidencias</description>
+		<employees>
+			<employee name="Laura Herrera" salary="950.00" jobTitle="Especialista en Soporte Tecnico" />
+			<employee name="Carlos Nunez" salary="990.00" jobTitle="Tecnico de Soporte Nivel Basico" />
+			<employee name="Esteban Silva" salary="1050.00" jobTitle="Tecnico de Soporte Avanzado" />
+			<employee name="Gabriela Paredes" salary="1100.00" jobTitle="Coordinadora de Soporte Tecnico" />
+			<employee name="Julian Diaz" salary="1000.00" jobTitle="Técnico de Soporte Nivel 1" />
+			<employee name="Patricia Guzman" salary="1150.00" jobTitle="Especialista en Redes y Conectividad" />
+		</employees>
+	</area>
+	<area>
+		<name>Marketing</name>
+		<description>Departamento enfocado en la promoción y publicidad de productos y servicios</description>
+		<employees>
+			<employee name="Juliana Lopez" salary="1450.00" jobTitle="Estratega de Marketing Digital" />
+			<employee name="Ricardo Torres" salary="1580.00" jobTitle="Coordinador de Publicidad" />
+			<employee name="Carlos Mendoza" salary="1600.00" jobTitle="Analista de Marketing" />
+			<employee name="Mariana Perez" salary="1720.00" jobTitle="Gestora de Redes Sociales" />
+		</employees>
+	</area>
+	<area>
+		<name>Finanzas</name>
+		<description>Area dedicada a la gestión financiera y contabilidad de la empresa</description>
+		<employees>
+			<employee name="Lucia Martinez" salary="1800.00" jobTitle="Contadora General" />
+			<employee name="Pablo Ruiz" salary="1950.00" jobTitle="Analista Financiero" />
+		</employees>
+	</area>
+</gosocket>
